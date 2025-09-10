@@ -1,6 +1,6 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://github.com/AmitKumar/AmitKumar/blob/main/assets/header.png" alt="Hey! I am Amit Kumar" />
+  <img src="https://github.com/amitk2026/blob/main/assets/header.png" alt="Hey! I am Amit Kumar" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
