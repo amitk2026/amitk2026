@@ -22,22 +22,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,sql,html,css,tailwind,bootstrap,git,github" />
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumar&theme=radical" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 - 🛒 [E-Commerce Platform](https://ecommerce-frontendd-rho.vercel.app/) – MERN stack shopping app with payments  
@@ -48,10 +35,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+  <a href="https://www.linkedin.com/in/amit-kumar-b0290a273/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:imamitk2003@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com" target="blank">
