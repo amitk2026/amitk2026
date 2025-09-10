@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning *DSA, System Design & Advanced MERN*
-- 👨‍💻 All my projects are available on [My GitHub](https://github.com/AmitKumar)
+- 👨‍💻 All my projects are available on [My GitHub](https://github.com/amitk2026)
 - 💬 Ask me about *React, Node.js, MongoDB, Express, JavaScript, C++, Python, SQL*
-- 📫 Reach me at *your.email@example.com*
+- 📫 Reach me at *imamitk2003@gmail.com*
 - ⚡ Fun fact: I love solving DSA problems and building scalable apps!
 
 ---
@@ -40,9 +40,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🛒 [E-Commerce Platform](https://github.com/AmitKumar/ecommerce-project) – MERN stack shopping app with payments  
-- 📊 [Sales Dashboard](https://github.com/AmitKumar/sales-dashboard) – Data visualization for business insights  
-- 🌐 [Portfolio Website](https://github.com/AmitKumar/portfolio) – Personal portfolio with React + Tailwind  
+- 🛒 [E-Commerce Platform](https://ecommerce-frontendd-rho.vercel.app/) – MERN stack shopping app with payments  
+- 📊 [Sales Dashboard](https://github.com/amitk2026/Mobile-Sales-Dashboard) – Data visualization for business insights  
+- 🌐 [Portfolio Website]() – Personal portfolio with React + Tailwind  
 
 ---
 
